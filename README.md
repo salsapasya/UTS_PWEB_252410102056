@@ -39,25 +39,25 @@ Website ini dikembangkan menggunakan framework Laravel dengan tujuan untuk menam
 
 Halaman awal website yang digunakan pengguna untuk memasukkan username sebelum masuk ke dashboard.
 
-![Halaman Login](screenshots/login.png)
+![Halaman Login](public/screenshots/login.png)
 
 ### 2. Halaman Dashboard
 
 Menampilkan ringkasan informasi mengenai jumlah layanan dan kategori layanan yang tersedia pada ELORA Healing Studio.
 
-![Halaman Dashboard](screenshots/dashboard.png)
+![Halaman Dashboard](public/screenshots/dashboard.png)
 
 ### 3. Halaman Pengelolaan
 
 Menampilkan daftar layanan ELORA Healing Studio beserta informasi kategori, harga, durasi, dan status layanan.
 
-![Halaman Pengelolaan](screenshots/pengelolaan.png)
+![Halaman Pengelolaan](public/screenshots/pengelolaan.png)
 
 ### 4. Halaman Profile
 
 Menampilkan informasi akun pengguna yang sedang mengakses website.
 
-![Halaman Profile](screenshots/profile.png)
+![Halaman Profile](public/screenshots/profile.png)
 
 ---
 
